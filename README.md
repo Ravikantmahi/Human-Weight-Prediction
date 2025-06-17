@@ -8,6 +8,11 @@ This is a simple **Flask web application** that predicts a person's **weight (in
 
 ---
 
+## 🔗 Project Links
+🔗 [Live Demo](https://human-weight-prediction.glitch.me/)
+- **GitHub Repository:** [https://github.com/Ravikantmahi/Iris-Flower-Prediction](https://github.com/Ravikantmahi/Human-Weight-Prediction)
+
+
 ## ⚙️ How It Works
 
 1. The user inputs their **gender** and **height**.
